@@ -1,0 +1,26 @@
+Project: Image Annotation Sample
+
+Image File: original.jpg
+Annotated File: labeled.jpg
+
+Annotation Type:
+Bounding Box (Object Detection)
+
+Objects Detected:
+- Person 
+  Bounding Box: (x: 120, y: 80, width: 60, height: 150)
+
+- Car 
+  Bounding Box: (x: 200, y: 100, width: 180, height: 120)
+
+Labeling Method:
+- Objects were identified manually
+- Bounding boxes were drawn around each object
+- Labels were assigned based on visual recognition
+
+Purpose:
+This sample demonstrates basic image annotation for object detection tasks used in training machine learning models.
+
+Notes:
+- Coordinates are approximate and for demonstration purposes
+- Label consistency was maintained throughout annotation
